@@ -15,7 +15,6 @@ branches:
   only:
    - development
 before_script:
-  - npm audit fix
   - npm install -g @angular/cli
   
 script:
