@@ -16,7 +16,6 @@ branches:
    - development
 before_script:
   - npm install -g @angular/cli
-  - npm audit
   
 script:
   - ng lint
