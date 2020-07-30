@@ -31,4 +31,4 @@ deploy:
     branch: development
 
   after_success:
-    - git push master :development
+    - git push origin development :master
