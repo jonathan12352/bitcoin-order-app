@@ -31,4 +31,7 @@ deploy:
     branch: development
 
 after_success:
-  - git push development:master
+  - git config --global user.email "jonathan12352@hotmail.com"
+  - git config --global user.name "jonathan12352"
+  - git remote add https://$GITHUB_TOKEN@github.com/jonathan12352/bitcoin-order-app.git
+  - git push origin development:master
