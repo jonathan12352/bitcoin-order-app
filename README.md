@@ -1,4 +1,4 @@
-# Bitcoin
+# Bitcoin [![Build Status](https://travis-ci.org/jonathan12352/bitcoin-order-app.svg?branch=development)](https://travis-ci.org/jonathan12352/bitcoin-order-app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
