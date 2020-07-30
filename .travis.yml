@@ -18,6 +18,8 @@ before_script:
   - npm install -g @angular/cli
   
 script:
+  - ng lint
+  - npm audit fix
   - ng build --prod --base-href https://jonathan12352.github.io/bitcoin-order-app/
   
 deploy:
@@ -28,3 +30,6 @@ deploy:
   edge: true
   on:
     branch: development
+
+after_success:
+ - git push master :development
