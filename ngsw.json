@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596086660972,
+  "timestamp": 1596093873669,
   "index": "https://jonathan12352.github.io/bitcoin-order-app/index.html",
   "assetGroups": [
     {
@@ -10,12 +10,12 @@
       "urls": [
         "https://jonathan12352.github.io/bitcoin-order-app/favicon.ico",
         "https://jonathan12352.github.io/bitcoin-order-app/index.html",
-        "https://jonathan12352.github.io/bitcoin-order-app/main.15fdab22add068c609b4.js",
+        "https://jonathan12352.github.io/bitcoin-order-app/main.cf1b5256369d51480335.js",
         "https://jonathan12352.github.io/bitcoin-order-app/manifest.webmanifest",
-        "https://jonathan12352.github.io/bitcoin-order-app/polyfills-es5.d6dbe74bff0d24406d5b.js",
-        "https://jonathan12352.github.io/bitcoin-order-app/polyfills.00e0ac70c7a61a994d40.js",
-        "https://jonathan12352.github.io/bitcoin-order-app/runtime.69aad174de386c36a16c.js",
-        "https://jonathan12352.github.io/bitcoin-order-app/styles.cd5cd5bb33d5d36675b8.css"
+        "https://jonathan12352.github.io/bitcoin-order-app/polyfills-es5.3eedef9fad5b25a5f2a8.js",
+        "https://jonathan12352.github.io/bitcoin-order-app/polyfills.65e25e3c843d8b14906c.js",
+        "https://jonathan12352.github.io/bitcoin-order-app/runtime.458556a34b891ea32398.js",
+        "https://jonathan12352.github.io/bitcoin-order-app/styles.d31fa9f27b2ed9b64e4e.css"
       ],
       "patterns": []
     },
@@ -65,13 +65,13 @@
     "https://jonathan12352.github.io/bitcoin-order-app/assets/pixel.gif": "87bb3a5dcd68684dee2e401dc8ed016eb6bea75f",
     "https://jonathan12352.github.io/bitcoin-order-app/back6.b820a7afbeaf4e4c5246.jpg": "bb1d88aec46a62d77cf358868f406f68399e7b8f",
     "https://jonathan12352.github.io/bitcoin-order-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://jonathan12352.github.io/bitcoin-order-app/index.html": "48f19eedcf285764e87718883aed268dae404fac",
-    "https://jonathan12352.github.io/bitcoin-order-app/main.15fdab22add068c609b4.js": "5ca97ef23bebc374df3488f42d4e8df97ed24a35",
+    "https://jonathan12352.github.io/bitcoin-order-app/index.html": "72208908195298cb845a8d2bf5b1ccbaa3be71bb",
+    "https://jonathan12352.github.io/bitcoin-order-app/main.cf1b5256369d51480335.js": "6a8bc90bcb1fb44dedc9e1dd5f6341c5d8a2cc5b",
     "https://jonathan12352.github.io/bitcoin-order-app/manifest.webmanifest": "da1eee6ec517d6398dc60e53058e5fec8304e10f",
-    "https://jonathan12352.github.io/bitcoin-order-app/polyfills-es5.d6dbe74bff0d24406d5b.js": "9d8470a6053852e77ee43b505664317f721b13ae",
-    "https://jonathan12352.github.io/bitcoin-order-app/polyfills.00e0ac70c7a61a994d40.js": "e68240c3b4dc50491b1b65d39a7791c1572712a0",
-    "https://jonathan12352.github.io/bitcoin-order-app/runtime.69aad174de386c36a16c.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://jonathan12352.github.io/bitcoin-order-app/styles.cd5cd5bb33d5d36675b8.css": "26453d47ec36430b523ace93361172ee2488aa30"
+    "https://jonathan12352.github.io/bitcoin-order-app/polyfills-es5.3eedef9fad5b25a5f2a8.js": "358d121f2c73528ddd6abc912598525e9a69de6b",
+    "https://jonathan12352.github.io/bitcoin-order-app/polyfills.65e25e3c843d8b14906c.js": "935cd07207812428056613f1300d15a61e0220e4",
+    "https://jonathan12352.github.io/bitcoin-order-app/runtime.458556a34b891ea32398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://jonathan12352.github.io/bitcoin-order-app/styles.d31fa9f27b2ed9b64e4e.css": "1767fb8e20a7f8d4475c064415c3da4e47a8704f"
   },
   "navigationUrls": [
     {
