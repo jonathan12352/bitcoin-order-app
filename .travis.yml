@@ -21,8 +21,6 @@ before_script:
 script:
   - ng lint
   - ng build --prod --base-href https://jonathan12352.github.io/bitcoin-order-app/
-  after_success:
-    - git push master :development
   
 deploy:
   provider: pages
@@ -32,3 +30,6 @@ deploy:
   edge: true
   on:
     branch: development
+
+  after_success:
+    - git push origin master :development
